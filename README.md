@@ -1,3 +1,3 @@
-# code-challenges javascript (22 sep 2021)
+# code-challenges javascript dasar
 Nama : Devi Ayu Lestari  
 Kelompok : 6
